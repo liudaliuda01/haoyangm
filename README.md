@@ -27,7 +27,9 @@
 ## 工具推荐——接码平台“Lightsms”
 
 在众多接码平台中，“Lightsms”以其出色的服务脱颖而出。作为一个专注于实卡手机接码和虚拟号码租赁的服务平台，Lightsms不仅为用户提供丰富的手机号码资源，还兼具良好的用户体验。
+
 平台官网[https://lightsms.pro](https://lightsms.pro/?_referrer=github002)
+
 <img width="1680" alt="C1" src="https://github.com/user-attachments/assets/ada9dcdc-1bf8-4b59-9bb7-58ae1edfa4a5">
 
 
@@ -48,8 +50,10 @@
 ### 工具推荐——发卡网平台“Anyshop”
 
 除了接码平台，发卡平台同样是实现“薅羊毛”的利器。“Anyshop”作为一家专业的发卡网平台，同样值得各位用户的关注。
+
 官网 [https://anyshop.vip](https://anyshop.vip/?_referrer=githubliudaliuda)
-![image](https://github.com/user-attachments/assets/3a22b9c4-bd0c-4338-abc8-f92ac3985ead)
+
+![屏幕截图_26-11-2024_123421_anyshop vip](https://github.com/user-attachments/assets/63d45831-7eda-47dd-bbbf-53f3a37dc967)
 
 
 **平台特点**：
